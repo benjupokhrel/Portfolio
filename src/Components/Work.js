@@ -18,7 +18,7 @@ function Work() {
           description="A personal portfolio made with React.js and CSS to showcase my projects and skills."
           image={portImage}
           // demoLink="https://your-live-portfolio.com"
-          codeLink="https://github.com/yourusername/portfolio"
+          codeLink="https://github.com/benjupokhrel/Portfolio"
         />
         <WorkCard
           title="Weather Forecast"
